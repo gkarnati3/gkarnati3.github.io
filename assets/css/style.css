@@ -9,7 +9,7 @@
 */
 
 body {
-	font: 300 14px/1.8 'Raleway';
+	font: 300 14px/1.8 'Raleway', sans-serif;
 	color: #666;
 	overflow-x: hidden;
 }
@@ -69,7 +69,7 @@ a,
 /* ---------------------------------------------- */
 
 h1, h2, h3, h4, h5, h6 {
-	font: 700 40px/1.2 Raleway;
+	font: 700 40px/1.2 Raleway, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	margin: 5px 0 5px;
@@ -175,7 +175,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 .btn {
-	font-family: Raleway;
+	font-family: Raleway, sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 13px;
@@ -276,7 +276,7 @@ textarea.form-control {
 }
 
 .pfblock-subtitle {
-	font-family: Raleway;
+	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-style: normal;
 	font-size: 18px;
 }
@@ -396,7 +396,7 @@ textarea.form-control {
 }
 
 .start {
-	font-family: Raleway;
+	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-size: 70px;
 	font-style: normal;
 	text-transform: none;
@@ -533,7 +533,7 @@ textarea.form-control {
 	border-radius: 0;
 	margin: 0;
 	text-transform: uppercase;
-	font-family: Raleway;
+	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-style: normal;
 }
 
@@ -563,7 +563,7 @@ textarea.form-control {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 22px;
-	font-family: Raleway;
+	font-family: Raleway, "Times New Roman", Times, sans-serif;
 }
 
 .navbar-custom .dropdown-menu {
