@@ -985,3 +985,16 @@ figure.effect-bubba:hover p {
 
 }
 
+.img-circle {
+    border-radius: 50%;
+}
+
+.person {
+    width: 210px;
+    height: 210px;
+}
+
+.portfolio-box .portfolio-box-caption {
+    background: rgba(0,128,128,.7);
+}
+
