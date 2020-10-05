@@ -10,9 +10,9 @@ Personal Website
 
 # Output Format
 For each rmat graph set, the output will be,
-rmat<graph num>
-NUM EDGES:  <num edges>
-COMPUTE TIME:  <total compute time>
-RECOMPUTE TIME:  <total recompute time>
+rmat<graph_num>
+NUM EDGES:  <num_edges>
+COMPUTE TIME:  <total_compute_time>
+RECOMPUTE TIME:  <total_recompute_time>
 
 
